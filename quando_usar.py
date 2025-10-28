@@ -1,0 +1,5 @@
+'''
+
+QUANDO USAR CADA UM?
+
+'''

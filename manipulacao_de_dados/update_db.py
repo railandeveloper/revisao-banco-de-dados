@@ -6,9 +6,9 @@ cursor = conexao.cursor()
 
 cursor.execute(
     """
-     UPDATE estudantes SET nome = ? WHERE id = ?
+     UPDATE disciplinas SET nome_disciplina = ? WHERE id = ?
     """,
-    ('joao', 2)
+    ('python', 2)
 )
 
 conexao.commit()

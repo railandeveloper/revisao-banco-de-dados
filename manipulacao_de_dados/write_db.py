@@ -14,7 +14,7 @@ cursor.execute(
     INSERT INTO disciplinas (id_estudante, nome_disciplina)
     VALUES (?, ?)
     """,
-    (2, 'Mtematica')
+    (2, 'Matematica')
 )
 
 
